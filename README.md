@@ -1,3 +1,8 @@
 # EntropyCalculator
 
-A description of this package.
+Integrantes
+===========
+
+Alexandro Ivan Garcia Perez
+Diego Blanco
+Cruz Eduardo Lopez
