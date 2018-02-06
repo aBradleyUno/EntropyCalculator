@@ -1,8 +1,8 @@
 # EntropyCalculator
 
 Integrantes
-===========
+-----------
 
-Alexandro Ivan Garcia Perez
-Diego Blanco
-Cruz Eduardo Lopez
+1. Alexandro Ivan Garcia Perez
+2. Diego Blanco
+3. Cruz Eduardo Lopez
